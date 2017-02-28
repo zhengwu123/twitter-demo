@@ -1,6 +1,6 @@
 # Project 5 - *Name of App Here*
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
@@ -10,8 +10,8 @@ The following **required** functionality is completed:
 - [x] Profile page:
    - [x] Contains the user header view
    - [x] Contains a section with the users basic stats: # tweets, # following, # followers
-- [ x] Home Timeline: Tapping on a user image should bring up that user's profile page
-- [ x] Compose Page: User can compose a new tweet by tapping on a compose button.
+- [x] Home Timeline: Tapping on a user image should bring up that user's profile page
+- [x] Compose Page: User can compose a new tweet by tapping on a compose button.
 
 The following **optional** features are implemented:
 
